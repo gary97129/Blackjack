@@ -1,0 +1,10 @@
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\bin\Debug\FinalTest40941118.exe.config
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\bin\Debug\FinalTest40941118.exe
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\bin\Debug\FinalTest40941118.pdb
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.csprojAssemblyReference.cache
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.Form1.resources
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.Properties.Resources.resources
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.csproj.GenerateResource.cache
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.csproj.CoreCompileInputs.cache
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.exe
+C:\Users\syuan\Desktop\FinalTest40941118\FinalTest40941118\obj\Debug\FinalTest40941118.pdb
